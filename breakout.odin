@@ -12,6 +12,8 @@ PADDLE_SPEED :: 200
 BALL_RADIUS :: 4
 BALL_SPEED :: 260
 BALL_POS_Y :: 160
+NUM_BLOCK_X :: 10
+NUM_BLOCK_Y :: 8
 paddle_pos_x: f32 // odin init var to
 ball_pos: rl.Vector2
 ball_dir: rl.Vector2
